@@ -1,7 +1,4 @@
-♟️ chess lover
-
-💻 developer
-
-🪐 sysadmin / netadmin
-
-⏰ not your average IT guy
+- ♟️ chess lover
+- 💻 developer
+- 🪐 sysadmin / netadmin
+- ⏰ not your average IT guy
